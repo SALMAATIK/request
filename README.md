@@ -4,9 +4,7 @@ Bienvenue sur mon dépôt GitHub ! Ce projet contient des exemples de mon travai
 
 ### **Comment accéder aux projets ?**
 
-Pour avoir un accès complet à mes projets, vous pouvez:
-1. **Me contacter directement** via GitHub ou par email à : [atik.salma00@gmail.com](mailto:atik.salma00@gmail.com).
-2. **Envoyer une demande d'accès** via GitHub. Je vous accorderai l'accès dès que possible.
+Pour avoir un accès complet à mes projets, vous pouvez **Me contacter directement** via GitHub ou par email à : [atik.salma00@gmail.com](mailto:atik.salma00@gmail.com).
 
 ### **Projets disponibles :**
 
