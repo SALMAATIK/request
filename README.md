@@ -10,8 +10,8 @@ Pour avoir un accès complet à mes projets, vous pouvez:
 
 ### **Projets disponibles :**
 
-- **Time series Forecasting**: Prédiction des tendances de séries temporelles.
-- **Data Visualisation**: Création de visualisations dynamiques.
+- **Time series Forecasting** : Prédiction des tendances de séries temporelles.
+- **Data Visualisation** : Création de visualisations dynamiques.
 
 ### **Technologies Utilisées :**
 - Python
