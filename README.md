@@ -10,6 +10,7 @@ Pour avoir un accès complet à mes projets, vous pouvez **Me contacter directem
 
 - **Time series Forecasting** : Prédiction des tendances de séries temporelles.
 - **Data Visualisation** : Création de visualisations dynamiques.
+- **Spaceship Titanic (Kaggle)** : Projet de classification construit pour la compétition Kaggle Spaceship Titanic. Prétraitement des données, ingénierie de variables, modélisation (XGBoost, Random Forest, etc.), et évaluation.
 
 ### **Technologies Utilisées :**
 - Python
