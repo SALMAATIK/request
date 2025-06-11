@@ -20,7 +20,7 @@ Pour avoir un accès complet à mes projets, vous pouvez **Me contacter directem
 - Dash, Plotly
 - Et plus...
 
-Merci pour votre compréhension, et n'hésitez pas à me contacter pour toute question ou demande !
+N'hésitez pas à me contacter pour toute question ou demande !
 
 ---
 
